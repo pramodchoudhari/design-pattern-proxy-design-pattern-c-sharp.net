@@ -1,2 +1,2 @@
-# design-pattern-proxy-design-pattern-c-sharp.net
+# Design Pattern Proxy Design Pattern C# .Net
 This repository explains what is proxy design pattern and its example in c-sharp .net
