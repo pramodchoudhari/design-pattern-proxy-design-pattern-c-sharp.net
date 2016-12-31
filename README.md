@@ -7,6 +7,10 @@ The proxy design pattern helps you to provide an interface to other objects by c
 2. Object creation is intensive.
 3. Providing interface for remote resources, such as web service or REST resources.
 
+![Proxy Design Pattern UML Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Proxy_pattern_diagram.svg/400px-Proxy_pattern_diagram.svg.png)
+
+
+
 #Who is what?
 The classes, interfaces and objects in the Proxy Pattern can be identified as follows:
 1. IClient- Subject Interface.
