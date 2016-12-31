@@ -1,0 +1,6 @@
+F:\poc\DesignPatterns\ProxyDesignPatternInCSharp.Net\ProxyDesignPatternInCSharp.Net\bin\Debug\ProxyDesignPatternInCSharp.Net.exe.config
+F:\poc\DesignPatterns\ProxyDesignPatternInCSharp.Net\ProxyDesignPatternInCSharp.Net\bin\Debug\ProxyDesignPatternInCSharp.Net.exe
+F:\poc\DesignPatterns\ProxyDesignPatternInCSharp.Net\ProxyDesignPatternInCSharp.Net\bin\Debug\ProxyDesignPatternInCSharp.Net.pdb
+F:\poc\DesignPatterns\ProxyDesignPatternInCSharp.Net\ProxyDesignPatternInCSharp.Net\obj\Debug\ProxyDesignPatternInCSharp.Net.csprojResolveAssemblyReference.cache
+F:\poc\DesignPatterns\ProxyDesignPatternInCSharp.Net\ProxyDesignPatternInCSharp.Net\obj\Debug\ProxyDesignPatternInCSharp.Net.exe
+F:\poc\DesignPatterns\ProxyDesignPatternInCSharp.Net\ProxyDesignPatternInCSharp.Net\obj\Debug\ProxyDesignPatternInCSharp.Net.pdb
